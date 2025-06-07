@@ -6,3 +6,4 @@ def function_print():
     print(saludos)
     print("otro saludo")
     print("no hace el ignore")
+    print("primer clone")
